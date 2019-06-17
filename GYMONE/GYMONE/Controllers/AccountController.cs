@@ -15,6 +15,13 @@ namespace GYMONE.Controllers
 {
 
 
+
+
+
+
+
+
+
     public class AccountController : Controller
     {
         IAccountData objIAccountData;
